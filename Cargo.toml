@@ -6,5 +6,6 @@ edition = "2021"
 description = "a rust lib implementing sort algorithm?"
 license = "MIT"
 repository = "https://github.com/mornsoltice/sorting-lib"
+readme = "README.MD"
 
 [dependencies]
