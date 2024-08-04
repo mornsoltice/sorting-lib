@@ -11,13 +11,13 @@ add this to 'cargo.toml'
 sorting-lib = "0.1.0"
 ```
 
-or you can use
+or you can run
 
 ```sh
 cargo add sorting-lib
 ```
 
-# contrib
+# contribution
 
 well contrib are open you can freely contirb to this repo, but idk why you want to contrib lol
 
